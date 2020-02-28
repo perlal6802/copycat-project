@@ -1,0 +1,48 @@
+body{
+    background: white;
+    font-family: 'arial', 'sans-serif';
+    color: black;
+}
+
+p{
+    padding: 0px 0px 0px 15px;
+    font-size: 13px;
+    font-family: 'arial', 'sans-serif';
+    width: 40px;
+    float: left;
+}
+
+.second-text{
+    padding: 0px 0px 0px 15px;
+    font-size: 13px;
+    font-family: 'arial', 'sans-serif';
+}
+
+  
+.gmail-text, .image-text{
+    /*text-align: right;*/
+    padding: 0px 10px;
+    float: right;
+    
+    
+}
+    
+img{
+    padding: 130px 0px 0px;
+    /*margin: 70px 0px 0px 0px;*/
+    margin: center;
+     /*width:;*/
+     
+}
+
+ .search-bar{
+    width: 245px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    margin: 30px 5px;
+    padding: 20px 200px;
+  }
+
+.mic-image{
+    
+}
